@@ -18,8 +18,5 @@
   "homepage": "https://github.com/midimurphdesigns/Natours#readme",
   "devDependencies": {
     "node-sass": "^6.0.1"
-  },
-  "dependencies": {
-    "jquery": "^3.6.0"
   }
 }
